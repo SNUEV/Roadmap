@@ -20,3 +20,15 @@ Project Roadmap Markdown Repository.
 > Server should provided non-volatile data.
 > database will provide them.
 > using orm & basic query (psql), we will study Database (a little bit) and connect it to our server (Remember Assignment 3)
+
+- <b> Front-end </b>
+
+> This time, we will use react as a front-end framework.
+> In the Assignment2, We used Angular framework. That is because Angular Framework is more appropriate for learning the basic structure of front-end web services.
+> this time, we will use react framework. which is fast-growing framework (it has virtual dom for fast rendering FYI)
+
+- <b> Now... SNUEV </b>
+
+
+ Above is the rough roadmap of our team project. 
+ please post issues if you have any questions.
